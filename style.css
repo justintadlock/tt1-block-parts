@@ -1,0 +1,24 @@
+/**
+ * Theme Name: TT1 Block Parts
+ * Template: twentytwentyone
+ */
+
+.wp-block-navigation:not(.has-background) .wp-block-navigation__container {
+	background: transparent;
+}
+
+.wp-block-cover__inner-container > * {
+	max-width: none !important;
+}
+
+.wp-block {
+	max-width: none;
+}
+
+.wp-block-cover .wp-block-site-title.has-text-color a {
+	color: inherit;
+}
+
+.is-root-container > :first-child {
+	margin-top: 0;
+}
