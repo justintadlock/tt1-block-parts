@@ -11,9 +11,14 @@
 	},
 	"templateParts": [
 		{
-		    "name": "header",
-		    "title": "Header",
-		    "area": "header"
+			"name": "header",
+			"title": "Header",
+			"area": "header"
+		},
+		{
+			"name": "header-video",
+			"title": "Header - Video",
+			"area": "header"
 		}
 	]
 }
